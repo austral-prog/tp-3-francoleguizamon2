@@ -6,5 +6,4 @@ def check_vowels():
             print('Contiene', letter + ':', True)
         else:
             print('Contiene', letter + ':', False)
-        
 check_vowels()
